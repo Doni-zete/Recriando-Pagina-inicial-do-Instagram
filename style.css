@@ -73,8 +73,8 @@ min-height:  34rem;
     height: 11rem;
 }
 
-.instagram-login{
-    background-color:red;
+.instragram-login{
+    background-color:#0095f6;
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
@@ -86,9 +86,14 @@ min-height:  34rem;
 }
 
 .not-account{
-    color: rgb(360,160,360);
+    color: rgb(160,160,160);
 }
 .link-blue{
 color: #0095f6;
+
+}
+.get-the-app{
+display: flex;
+flex-direction: column;
 
 }
