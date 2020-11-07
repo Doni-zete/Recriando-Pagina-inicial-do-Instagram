@@ -1,2 +1,2 @@
-# Recriando-a-pagina-inicial-do-Instagram
- Criando do zero uma copia do instagram
+# Recriando a pagina-inicial-do-Instagram
+ Criando uma simples copia da pagina inicial do  instagram
