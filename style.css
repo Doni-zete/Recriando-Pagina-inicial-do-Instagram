@@ -123,7 +123,33 @@ padding: 1.3rem 0;
     background-image: url(./img/googleplay-button.png);
 }
 
-/* */
+/* media queries*/
+
+@media(max-width: 1024px){
+    .instragram-wraper{
+        width: 90%;
+    }
+}
+
+@media(max-width:650px){
+    body{
+        background-color: #ffffffff;
+    }
+
+    .instragram-wraper{
+        width:90%; 
+    }
+    .Instagram-phone{
+        display: none;
+    }
+    .instagram-continus{
+        width: 100%;
+    }
+
+    .group{
+        border: 1px solid transparent;
+    }
+}
 
 
 
