@@ -62,4 +62,24 @@ min-height:  34rem;
 .instagram-logo{
     height: 3rem;
 }
-.pro
+.profile-photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.profile-photo{
+    height: 6rem;
+}
+
+.instagram-login{
+    background-color: #0095f6;
+    padding: 8px;
+    border-radius: 4px;
+}
+.instagram-logout{
+    color: #0095f6;
+
+
+}
