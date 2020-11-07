@@ -51,16 +51,16 @@ min-height:  34rem;
     align-items: center;
     flex-direction: column;
     background-color:#ffffff;
-    width: 100;
-    padding: 1.3rem 0;
+    width: 100%;
+    padding: .91rem 0;
     border: 1px solid  lightgray;
 }
 
-.group:int-child(1){
+.group:nth-child(1){
     min-height: 19rem;
 }
 .instagram-logo{
-    height: 3rem;
+    height: 5rem;
 }
 .profile-photo{
     display: flex;
@@ -69,12 +69,12 @@ min-height:  34rem;
     border-radius: 50%;
     overflow: hidden;
 }
-.profile-photo{
-    height: 6rem;
+.profile-photo img{
+    height: 11rem;
 }
 
 .instagram-login{
-    background-color: #0095f6;
+    background-color:red;
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
