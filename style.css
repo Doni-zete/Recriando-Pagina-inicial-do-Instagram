@@ -25,11 +25,11 @@ body{
     width: 60%;
     height: 100vh;
 }
-.Instagram-phone{
+.Instagram-phone {
     display:flex;
     align-items: center;
     justify-content: center;
-    width: 50px;
+    width: 50%;
 
 }
 .Instagram-phone img{
@@ -38,8 +38,8 @@ body{
 
 .instagram-continus{
 display:flex;
-align-items: center;
-justify-content: space-around;
+align-items: center; /*horizontal*/
+justify-content: space-around;/* vertical*/
 flex-direction: column;
 width: 50%;
 min-height:  34rem;
@@ -75,11 +75,20 @@ min-height:  34rem;
 
 .instagram-login{
     background-color: #0095f6;
+    color: #ffffff;
     padding: 8px;
     border-radius: 4px;
 }
 .instagram-logout{
     color: #0095f6;
+    margin-top: 1rem;
 
+}
+
+.not-account{
+    color: rgb(360,160,360);
+}
+.link-blue{
+color: #0095f6;
 
 }
